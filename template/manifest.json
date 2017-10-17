@@ -1,6 +1,6 @@
 {
-  "name": "Preact CLI App",
-  "short_name": "Preact CLI App",
+  "name": "{{ name }}",
+  "short_name": "{{ name }}",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

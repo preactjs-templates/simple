@@ -1,6 +1,6 @@
 {
-  "name": "simple",
   "private": true,
+  "name": "{{ name }}",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {

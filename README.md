@@ -1,1 +1,1 @@
-preacjs-simple-boilerplate
+# preact-simple-boilerplate

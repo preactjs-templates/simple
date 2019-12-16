@@ -15,14 +15,13 @@
   },
   "eslintIgnore": ["build/*"],
   "devDependencies": {
-    "eslint": "^4.5.0",
-    "eslint-config-synacor": "^1.1.0",
+    "eslint": "^6.0.1",
+    "eslint-config-synacor": "^3.0.4",
     "if-env": "^1.0.0",
-    "preact-cli": "^2.0.0"
+    "preact-cli": "^3.0.0-rc.6"
   },
   "dependencies": {
-    "preact": "^8.5.2",
-    "preact-compat": "^3.17.0",
-    "preact-render-to-string": "^4.1.0"
+    "preact": "^10.1.0",
+    "preact-render-to-string": "^5.1.2"
   }
 }
